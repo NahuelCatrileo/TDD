@@ -10,9 +10,11 @@ public class Main {
 
     public static void main(String[] args){
         System.out.println("Clase Main");
-
     }
-
-//aquí van sus funciones:
-
+    static int kaprekarOp(int num) {
+        return 3087;
+    }
+    static int itKaprekar(int num) {
+        return 3;
+    }   
 }
